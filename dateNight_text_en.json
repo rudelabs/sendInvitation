@@ -1,0 +1,36 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "text": "Will You Be My Date?Join Me For Dinner and Drinks At The <venue> <date> , <time>.Dress Your Best!"
+    },
+    {
+      "id": "2",
+      "text": "Will you be mine tonight? Let’s hit the town for some dinner and dancing, followed by whatever other activities strike our fancy. "
+    },
+    {
+      "id": "3",
+      "text": "Dearest <name>,You’re invited to an exclusive party… a party of two. Join me for dinner, a movie, and a moonlit carriage ride on <date>. I will be VERY appreciative of your company.Love,"
+    },
+    {
+      "id": "4",
+      "text": "Hey Handsome,How about we get together for some alone time? I’m thinking dinner, drinks, dessert, and whatever else the evening brings (wink). Let’s make it a night to remember."
+    },
+    {
+      "id": "5",
+      "text": "Hey Beautiful,How about we get together for some alone time? I’m thinking dinner, drinks, dessert, and whatever else the evening brings (wink). Let’s make it a night to remember."
+    },
+    {
+      "id": "6",
+      "text": "Dear <name>,May I have the pleasure of your company this evening? I have made reservations for dinner and an overnight stay at a nice hotel. Tonight, I want the focus to be all on you."
+    },
+    {
+      "id": "7",
+      "text": "My Love,Thank you for making my life so fun, meaningful, and fantastically unpredictable. I want to take my beautiful girl out for a romantic dinner to show my appreciation. Are you game?"
+    },
+    {
+      "id": "8",
+      "text": "My Love,Thank you for making my life so fun, meaningful, and fantastically unpredictable. I want to take my handsome out for a romantic dinner to show my appreciation. Are you game?"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "text": "We are very happy to announce that a little angel has been sent to us. We invite you to the baby shower in honor of the mother-to-be"
+    },
+    {
+      "id": "2",
+      "text": "We are very happy and full of glee, As we are now parents-to-be."
+    },
+    {
+      "id": "3",
+      "text": "We are excited to welcome our little man into the family. Help us celebrate."
+    },
+    {
+      "id": "4",
+      "text": "We are excited to welcome our little girl into the family. Help us celebrate."
+    },
+    {
+      "id": "5",
+      "text": "Whether it is a boy or a girl, come help us shower our special child."
+    },
+    {"id": "6", "text": "Our little one is on the way."},
+    {"id": "7", "text": "Let’s celebrate the baby on the way"},
+    {"id": "8", "text": "Oh, baby! There’s a special someone on the way."},
+    {
+      "id": "9",
+      "text": "Little man, or little lady? It’s a surprise for us too! Come join us celebrating our newest addition to the family."
+    }
+  ]
+}

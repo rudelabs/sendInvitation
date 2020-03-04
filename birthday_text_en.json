@@ -1,0 +1,44 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "text": "On the occasion of my son’s birthday, I am inviting you to dinner at my residence."
+    },
+    {
+      "id": "2",
+      "text": "On the occasion of my daughter’s birthday, I am inviting you to dinner at my residence."
+    },
+    {
+      "id": "3",
+      "text": "I am looking forward to our presence on my birthday. The party is being organised at <venue>. Be there by <time>."
+    },
+    {
+      "id": "4",
+      "text": "Dinner and Drink, food getting colder; All are waiting for you in the party as I have turned a day older."
+    },
+    {
+      "id": "5",
+      "text": "I am holding the wildest party for you guys, plz be at <venue> by <time> to cut cake and let your body shake."
+    },
+    {
+      "id": "6",
+      "text": "Here I invite all my friends to be the part of my birthday party on <date> at <time> for dinner and party."
+    },
+    {
+      "id": "7",
+      "text": "Hey friends, this is a formal invitation to all of you. Plz come at <venue> in the evening to wish me happy birthday and enjoy dinner."
+    },
+    {
+      "id": "8",
+      "text": "It's the birthday of our beloved son, and You are invited to have a share in our joy as we celebrate the day with our friends and family!"
+    },
+    {
+      "id": "9",
+      "text": "It's the birthday of our beloved daughter, and You are invited to have a share in our joy as we celebrate the day with our friends and family!"
+    },
+    {
+      "id": "10",
+      "text": "We'll be chippin', dippin',and margarita sippin' as we celebrate my Birthday Join us for margaritas and munchies <time> <date> <venue>"
+    }
+  ]
+}

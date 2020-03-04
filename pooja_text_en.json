@@ -1,0 +1,20 @@
+{
+  "wishes":[
+    {
+      "id": "1",
+      "text": "We would like to share our joy with family and friends.Please grace us with your presence and blessings. We solicit your gracious presence to share our joy And happiness on the occasion of <pooja>."
+    },
+    {
+      "id": "2",
+      "text": "We cordially invite you to grace the occasion of <pooja> on <date> <time> at our <venue>.Puja will be followed with lunch."
+    },
+    {
+      "id": "3",
+      "text": "You are cordially invited to\n<pooja>\n<date>\n<time>\n<venue>"
+    },
+    {
+      "id": "4",
+      "text": "Dummy"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "text": "We cordially invite you for a night on the terrace savoring the delights of the continent <date> at <time> <venue>"
+    },
+    {
+      "id": "2",
+      "text": "There is nothing quite like city lights & wondrous nights! Please join us for dinner at the <venue> <date> at <time>"
+    },
+    {
+      "id": "3",
+      "text": "We request the pleasure of your company for dining and celebration <date> and <time> <venue>"
+    },
+    {
+      "id": "4",
+      "text": "We cordially invite you for a night of toasts, good cheer and gourmet delights, <time> <date> <venue>"
+    },
+    {
+      "id": "5",
+      "text": "Celebrate the warmth of the season... Please be our guest for Dinner and Dancing on <date> at <time> in the evening <venue>"
+    },
+    {
+      "id": "6",
+      "text": "The honour of your presence is requested at <venue> on <date> for Cocktails and Hors d'oeuvres at <time> in the evening Dinner immediately following"
+    }
+  ]
+}

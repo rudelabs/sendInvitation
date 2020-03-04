@@ -1,0 +1,28 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "text": "You are invited to a Garden Luncheon on <date> <time> at <venue>"
+    },
+    {
+      "id": "2",
+      "text": "Please join us for tea in honor of <from>, <date> <time> <venue>"
+    },
+    {
+      "id": "3",
+      "text": "It's a Tea Party! <from> getting older, and there is nothing she wants more than to celebrate her birthday with her friends, so put on your hat & heels and let the party begin!\n<date> <time>"
+    },
+    {
+      "id": "4",
+      "text": "The table is set for a Tea Party honoring <to> given by her bridesmaids <date> <time> <venue>"
+    },
+    {
+      "id": "5",
+      "text": "Much more than just tea at our special Sip & See honoring <to> <date> <time> <venue>"
+    },
+    {
+      "id": "6",
+      "text": "<from> invites you and a guest to attend a Holiday High Tea <date> <time> at <venue>"
+    }
+  ]
+}

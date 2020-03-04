@@ -1,0 +1,32 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "text": "Hi! It has been a while since we saw each other. I was wondering if you would like to catch up on <date> <time> for lunch at <venue>."
+    },
+    {
+      "id": "2",
+      "text": "Hello members! You are all cordially invited for the monthly team lunch at the <venue> at <time> on <date>"
+    },
+    {
+      "id": "3",
+      "text": "We haven’t caught up in a while. Let’s grab some beers at lunch  <date>? See you at <venue> bar!"
+    },
+    {
+      "id": "4",
+      "text": "You are invited to be part of the team lunch at <time>, <date>, at the <venue>."
+    },
+    {
+      "id": "5",
+      "text": "I would like to invite you for an afternoon tea at <venue>, <date>, at <time>"
+    },
+    {
+      "id": "6",
+      "text": "Hi, would you be kind enough to take out some time from your busy schedule and have lunch with me <date>? I would like to discuss a business deal with you."
+    },
+    {
+      "id": "7",
+      "text": "You are cordially invited to a luncheon, at <time> on <date> to celebrate the annual gala at <venue>."
+    }
+  ]
+}

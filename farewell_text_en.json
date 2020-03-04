@@ -1,0 +1,40 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "text": "Hello members! You are all cordially invited for the Farewell party at the <venue> at <time> on <date>"
+    },
+    {
+      "id": "2",
+      "text": "You are invited to be part of the farewell party at <time>, <date>, at the <venue>."
+    },
+    {
+      "id": "3",
+      "text": "I would like to invite you for the farewell party at <venue>, <date>, at <time>"
+    },
+    {
+      "id": "4",
+      "text": "You are cordially invited to a luncheon, at <time> on <date> to celebrate the Farewell party at <venue>."
+    },
+    {
+      "id": "5",
+      "text": "We wish to extend to you the pleasure of a final evening as Seniors.You have all contributed so much to the school and no doubt you will do the same for the wider community in your new roles as adults. Congratulations, we hope you will share with us the celebration of your new beginning at <venue> on <date> <time>."
+    },
+    {
+      "id": "6",
+      "text": "Colleagues and valued clients,<name> is leaving after so many years of dedicated service.Please join us on <date> in expressing best wishes for the future.There will be cocktails at <venue> at <time>.Dress code is smart casual.Thank you."
+    },
+    {
+      "id": "7",
+      "text": "Dear <name>,A farewell on <date> is being held in your honour, to thank you for your long commitment to this company. It is organised at <venue> at <time>.Your partner knows and you can’t back out of it.Your colleagues who admire and respect you are looking forward to expressing their best wishes.See you there"
+    },
+    {
+      "id": "8",
+      "text": "<name> is leaving! Come and say goodbye at <venue>, <date> <time>. BYO alcohol.It would mean a lot if you come and express your best wishes. Let me know if you can make it.Cheers,"
+    },
+    {
+      "id": "9",
+      "text": "<name> is leaving us!  We are having a 'Bye Bye' theme so please bring your slippers on <date> to wear during morning tea.Email me if you have comfy, clean blankets and cushions for decorating the tea-room.I'll be baking cake and muffins, any volunteers for home-cooked snacks?See you at <time>,"
+    }
+  ]
+}

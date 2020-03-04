@@ -1,0 +1,52 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "text": "Spring is here...\nWedding bells are near!\nJoin us as we celebrate our engagement\n<date> at <time>"
+    },
+    {
+      "id": "2",
+      "text": "The honour of your presence is requested for an evening of cocktails and hor’dourves in honor of the newly engaged couple, <date> <time> at <venue>\nNo gifts please!"
+    },
+    {
+      "id": "3",
+      "text": "Please celebrate with us at an evening of dinner and dancing\nWe’re going to shake things up for engaging couple. So bring something to stock the bar, Like vodka and gin! <date><time>"
+    },
+    {
+      "id": "4",
+      "text": "Love is here to stay, so let's celebrate by dancing the night away! Please join us for an engagement party on <date> <timr>"
+    },
+    {
+      "id": "5",
+      "text": "Here's an engagement party planned and you're invited to show, but shhh … don't tell the happy couple because they don't know. Join us in celebrating their  urprise engagement party <date> <time> at <venue>"
+    },
+    {
+      "id": "6",
+      "text": "Two hearts very much in love are getting united and making a promise to be in love forever! Save the date as you're invited to our engagement"
+    },
+    {
+      "id": "7",
+      "text": "A new beginning, a new life...We are getting engaged, You are invited to join us... In our blissful union and make our day."
+    },
+    {
+      "id": "8",
+      "text": "From the first moment, our eyes met,We knew this joyous day would come, Announcing our engagement, We have found the love we have been seeking our whole lives, Come and be a part of our engagement ceremony as we embark upon our new journey together."
+    },
+    {
+      "id": "9",
+      "text": "Who else would have us?You have to agree. Although we may be imperfect, We fit each other to a T. So we've decided it's time. To finally step up. We're getting engaged, So be there to wish us good luck!"
+    },
+    {
+      "id": "10",
+      "text": "This just got real,Join us for an engagement party, Honouring the love that we hold for each other."
+    },
+    {
+      "id": "11",
+      "text": "We are ecstatic to be able to announce our engagement. We would be glad if you can join us for the event on <date> at <venue>."
+    },
+    {
+      "id": "12",
+      "text": "It all started with a smile… Progressed with a kiss…. And will end with a celebration like this! Please join us as we get engaged to be married!"
+    }
+  ]
+}
