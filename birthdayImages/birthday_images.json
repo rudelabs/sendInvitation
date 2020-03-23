@@ -7,6 +7,22 @@
       {
          "id":"002",
          "url":"https://rudelabs.github.io/sendInvitation/birthdayImages/birthday2.jpg"
+      },
+      {
+         "id":"003",
+         "url":"https://rudelabs.github.io/sendInvitation/birthdayImages/birthday3.jpg"
+      },
+      {
+         "id":"004",
+         "url":"https://rudelabs.github.io/sendInvitation/birthdayImages/birthday4.jpg"
+      },
+      {
+         "id":"005",
+         "url":"https://rudelabs.github.io/sendInvitation/birthdayImages/birthday5.jpg"
+      },
+      {
+         "id":"006",
+         "url":"https://rudelabs.github.io/sendInvitation/birthdayImages/birthday6.jpg"
       }
    ]
 }
